@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa8fcffad0930741a61f3474dfd7faf, type: 3}
+  m_Name: Blanc
+  m_EditorClassIdentifier: 
+  skinNormal: {fileID: 21300000, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  skinZombie: {fileID: 21300002, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  teeShirtNormal:
+  - {fileID: 21300020, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300024, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300034, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300038, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300048, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  teeShirtZombie:
+  - {fileID: 21300018, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300022, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300032, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300036, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  - {fileID: 21300046, guid: 53020e731502c264aa95d8dffbf09c87, type: 3}
+  legs:
+  - {fileID: 11400000, guid: 5de17a43f3117984aa3a1563279c46e9, type: 2}
+  - {fileID: 11400000, guid: 47136b3403bbca6419ed259fc3b165ac, type: 2}
+  - {fileID: 11400000, guid: de06c893683898d49925a8d9a6705f6d, type: 2}

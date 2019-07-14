@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e648010dfe9a3064589da519289b40c8, type: 3}
+  m_Name: Pompe
+  m_EditorClassIdentifier: 
+  Bullet: {fileID: 6634190165621429075, guid: 6fc1cd07697fc1f4fb5d366a6938254e, type: 3}
+  weaponSprite: {fileID: 21300010, guid: b680a7b7ad5142944a7f9226f2be1ff5, type: 3}
+  bulletsnb: 3
+  damage: 5
+  cost: 5
+  recoilTime: 0.5
+  range: 5
+  knockdown: 20.6
+  weaponSound: {fileID: 8300000, guid: ae7064855069cc942b9e04c3461cd36a, type: 3}
